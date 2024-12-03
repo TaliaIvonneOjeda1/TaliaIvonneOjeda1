@@ -29,5 +29,3 @@ Soy una entusiasta de la tecnología, enfocada en el análisis de datos y el des
 - Me gusta pintar y tejer en mis ratos libres! 
 
 
-## 📊 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TaliaIvonneOjeda1&show_icons=true&theme=radical)
