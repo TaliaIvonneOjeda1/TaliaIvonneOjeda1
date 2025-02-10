@@ -7,7 +7,6 @@ Soy una entusiasta de la tecnología, enfocada en el análisis de datos y el des
 - 💻 Lenguajes de programación: Python, JavaScript
 - 📊 Análisis de datos: SQL
 - 🌐 Desarrollo Web: HTML, CSS
-- 🔧 Herramientas: [Puedes agregar las herramientas que uses, como VS Code, Git, etc.]
 
 ## 📚 Actualmente estoy
 - 🌱 Aprendiendo Python, SQL, HTML, CSS y JavaScript
